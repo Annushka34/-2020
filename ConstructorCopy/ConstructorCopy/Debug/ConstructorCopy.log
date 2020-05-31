@@ -1,0 +1,3 @@
+﻿  Static.cpp
+d:\step\с\35ps\constructorcopy\constructorcopy\static.cpp(15): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConstructorCopy.vcxproj -> D:\STEP\с\35PS\ConstructorCopy\Debug\ConstructorCopy.exe
